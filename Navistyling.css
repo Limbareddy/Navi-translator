@@ -1,0 +1,60 @@
+:root{
+    --primarycolor:rgb(11, 173, 184); 
+    
+}
+#avtr{
+    max-width: 600px;
+    margin-left:15rem ;
+    padding: 1rem 2rem;
+
+}
+
+#header{
+    margin:auto;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    background-color: var(--primarycolor);
+    height: 15vh;
+    padding: 1rem 1rem;
+
+}
+
+
+#txt{
+    display: block;
+    margin:1rem 3rem;
+    padding:1rem 2rem;
+    height: 10vh;
+    width: 80%;
+
+}
+#output-txt{
+border:2px solid black;
+height: 10vh;
+margin: 1rem 3rem;
+padding: 1rem 3rem;
+width:80%;
+
+
+}
+#btn-translate{
+block-size: auto;
+text-align: center;
+padding:0rem 3rem;
+margin: 1rem 3rem;
+max-width: 200px;
+color:white;
+background-color:var(--primarycolor);
+}
+footer{
+    text-align: center;
+    height: 21vh;
+    width: 100%;
+    margin: auto;
+    display: block;
+    padding-bottom: 0rem;
+    background-color: var(--primarycolor);
+    
+
+}
