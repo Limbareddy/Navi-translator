@@ -2,6 +2,9 @@
     --primarycolor:rgb(11, 173, 184); 
     
 }
+body{
+    margin:0;
+}
 #avtr{
     max-width: 600px;
     margin-left:15rem ;

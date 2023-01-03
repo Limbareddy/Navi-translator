@@ -7,7 +7,7 @@ function getURL(text){
     return SerURL+"?"+"text="+text;
 }
  function errorHandling(error){
-    console.log("there was something wrong")
+    alert("there was something wrong try again"+error);
  }
 
 function clickhanding()
